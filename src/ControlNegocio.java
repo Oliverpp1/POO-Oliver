@@ -44,7 +44,7 @@ public class Main {
                     System.out.println("Opción de venta aún no implementada.");
                     break;
 
-                case 3://
+                case 3:////
                     System.out.println("\nReporte:");
                     System.out.println("Cajas compradas: " + cajasCompradas);
                     System.out.println("Costo total de cajas compradas: " + costoCajas);
