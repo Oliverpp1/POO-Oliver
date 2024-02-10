@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//.
 public class Main {
 
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class Main {
         int opcion;
         int cajasCompradas = 0;
         double costoCajas = 0;
-
+//.
         do {
             System.out.println("\nMenú:");
             System.out.println("1. Comprar cajas de papel");
@@ -44,7 +44,7 @@ public class Main {
                     System.out.println("Opción de venta aún no implementada.");
                     break;
 
-                case 3:////
+                case 3:
                     System.out.println("\nReporte:");
                     System.out.println("Cajas compradas: " + cajasCompradas);
                     System.out.println("Costo total de cajas compradas: " + costoCajas);
